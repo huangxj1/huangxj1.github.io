@@ -1,2 +1,5 @@
-theme: jekyll-theme-cayman
 title: 黄小金的地盘
+description:
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
