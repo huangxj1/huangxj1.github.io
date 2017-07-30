@@ -107,7 +107,7 @@ ok           | good `zoute` drop | yumm
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 ### 换行
-在文字末尾加两个空格在回车。
+在文字末尾加两个空格再回车。
 ### 分割线
 用---独占一行生成
 ***
