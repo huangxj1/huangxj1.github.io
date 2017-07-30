@@ -93,6 +93,7 @@ _Coding，让开发更简单_
 ```
 效果如下：
 *Coding，让开发更简单*
+
 _Coding，让开发更简单_
 
 加粗：
@@ -102,6 +103,7 @@ __Coding，让开发更简单__
 ```
 效果如下：
 **Coding，让开发更简单**
+
 __Coding，让开发更简单__
 ### 表格
 例如：
@@ -133,4 +135,5 @@ ok           | good `zoute` drop | yumm
 这里可以看到官方的 Markdown 语法规则文档,可以进一步学习噢～
 
 [创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax#list)
+
 [Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)
