@@ -71,22 +71,22 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 ### 强调
-在Markdown中，可以使用 * 和 _ 来表示斜体和加粗。\n
+在Markdown中，可以使用 * 和 _ 来表示斜体和加粗。  
 斜体：
 ```md
 *Coding，让开发更简单*
 _Coding，让开发更简单_
 ```
-效果如下：\n
-*Coding，让开发更简单*\n
-_Coding，让开发更简单_\n
+效果如下：  
+*Coding，让开发更简单*  
+_Coding，让开发更简单_  
 加粗：
 ```md
 **Coding，让开发更简单**
 __Coding，让开发更简单__
 ```
-效果如下：\n
-**Coding，让开发更简单**\n
+效果如下：  
+**Coding，让开发更简单**  
 __Coding，让开发更简单__
 ### 表格
 例如：
@@ -105,12 +105,14 @@ ok           | good `zoute` drop | yumm
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
+### 换行
+在文字末尾加两个空格在回车。
 ### 分割线
-用--- 独占一行生成
+用---独占一行生成
 ***
 ### 感谢
 本文参考：[Markdown——入门指南 by Te_Lee](https://coding.net/help/doc/project/markdown.html)
 #### Markdown 官方文档
-这里可以看到官方的 Markdown 语法规则文档,可以进一步学习噢～\n
-[创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax#list)\n
+这里可以看到官方的 Markdown 语法规则文档,可以进一步学习噢～  
+[创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax#list)  
 [Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)
