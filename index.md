@@ -45,7 +45,7 @@ Markdown 是一种可以使用普通文本编辑器编写的标记语言，通�
 - [×] 勾选
 ```
 - [ ] 不勾选
-- [×] 勾选
+- [x] 勾选
 ### 引用
 如果你需要引用一段别处的句子，那么就要用引用的格式。
 
@@ -128,3 +128,9 @@ ok           | good `zoute` drop | yumm
 ### 感谢
 本文参考：[Markdown——入门指南 by Te_Lee](https://coding.net/help/doc/project/markdown.html)
 
+#### Markdown 官方文档
+
+这里可以看到官方的 Markdown 语法规则文档,可以进一步学习噢～
+
+[创始人 John Gruber 的 Markdown 语法说明](https://daringfireball.net/projects/markdown/syntax#list)
+[Markdown 中文版语法说明](http://wowubuntu.com/markdown/#list)
